@@ -32,6 +32,9 @@ Here are some ideas to get you started:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="OpenCV" width="45" height="45">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="45" height="45">
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VarunPadha&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
 
