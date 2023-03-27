@@ -2,7 +2,7 @@
 
  My name is ✨**VarunPadha**✨
  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VarunPadha&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) ![Snake animation](https://github.com/VarunPadha/VarunPadha/blob/output/github-contribution-grid-snake.svg)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VarunPadha&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
 
 As a data science enthusiast with a passion for machine learning, I am committed to leveraging the power of data to drive meaningful business outcomes. With experience in Jupyter Notebook, Kaggle, Python, Pandas, NumPy, PyCaret, Matplotlib, Seaborn, Plotly, Natural Language Toolkit (NLTK), Power BI, and Tableau, I have developed a strong foundation in data analysis and visualization techniques.
 
@@ -24,6 +24,7 @@ During my internships, I gained hands-on experience building classification mode
 <a href="https://linkedin.com/in/varun-padha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="varunpadha" height="30" width="40" /></a>
 </p>
 
+![Snake animation](https://github.com/VarunPadha/VarunPadha/blob/output/github-contribution-grid-snake.svg)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=varunpadha&label=Profile%20views&color=0e75b6&style=flat" alt="varunpadha" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=varunpadha" alt="varunpadha" /></a> </p>
