@@ -2,7 +2,7 @@
 
  My name is ✨**VarunPadha**✨
  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VarunPadha&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VarunPadha&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 
 - 🔭 I’m currently working as a Data Science Intern and a Game developer
 - 🌱 I’m currently learning Staistics and Machine Learning
