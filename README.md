@@ -2,7 +2,8 @@
 
 **VarunPadha/VarunPadha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VarunPadha&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=varunpadha&show_icons=true&locale=en&layout=compact" alt="varunpadha" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=varunpadha&" alt="varunpadha" /></p>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -23,10 +24,6 @@ Here are some ideas to get you started:
 <a href="https://linkedin.com/in/varun-padha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="varunpadha" height="30" width="40" /></a>
 </p>
 
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=varunpadha&show_icons=true&locale=en&layout=compact" alt="varunpadha" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=varunpadha&" alt="varunpadha" /></p>
 
 
 
