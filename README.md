@@ -1,8 +1,8 @@
 ### Hi there 👋
 
- My name is ✨**VarunPadha/VarunPadha**✨
+ My name is ✨**VarunPadha**✨
+ 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VarunPadha&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working as a Data Science Intern and a Game developer
 - 🌱 I’m currently learning Staistics and Machine Learning
