@@ -4,6 +4,10 @@
  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VarunPadha&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) ![Snake animation](https://github.com/VarunPadha/VarunPadha/blob/output/github-contribution-grid-snake.svg)
 
+As a data science enthusiast with a passion for machine learning, I am committed to leveraging the power of data to drive meaningful business outcomes. With experience in Jupyter Notebook, Kaggle, Python, Pandas, NumPy, PyCaret, Matplotlib, Seaborn, Plotly, Natural Language Toolkit (NLTK), Power BI, and Tableau, I have developed a strong foundation in data analysis and visualization techniques.
+
+During my internships, I gained hands-on experience building classification models, conducting exploratory data analysis, developing email spam detection systems, and analyzing complex datasets using machine learning algorithms and advanced statistical techniques. Additionally, I have honed my skills in data management, data visualization, and collaboration, working effectively with cross-functional teams of engineers, data analysts, and business stakeholders.
+
 - 🔭 I’m currently working as a Data Science Intern and a Game developer
 - 🌱 I’m currently learning Staistics and Machine Learning
 - 👯 I’m open for colloborations
@@ -11,7 +15,9 @@
 - 💬 Ask me about 
 - 📫 How to reach me: Connect me on Linkedin given below
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am funny 
+- ⚡ Fun fact: I am funny
+- See my resume : https://drive.google.com/file/d/12Z2DG9RzU4Wd9lsBrrtXEeOPoSok3099/view?usp=share_link
+-  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
