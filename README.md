@@ -17,7 +17,6 @@ During my internships, I gained hands-on experience building classification mode
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am funny
 - See my resume : https://drive.google.com/file/d/12Z2DG9RzU4Wd9lsBrrtXEeOPoSok3099/view?usp=share_link
--  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
