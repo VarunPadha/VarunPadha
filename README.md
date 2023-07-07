@@ -6,7 +6,7 @@
 
 As a data science enthusiast with a passion for machine learning, I am committed to leveraging the power of data to drive meaningful business outcomes. With experience in Jupyter Notebook, Kaggle, Python, Pandas, NumPy, PyCaret, Matplotlib, Seaborn, Plotly, Natural Language Toolkit (NLTK), Power BI, and Tableau, I have developed a strong foundation in data analysis and visualization techniques.
 
-During my internships, I gained hands-on experience building classification models, conducting exploratory data analysis, developing email spam detection systems, and analyzing complex datasets using machine learning algorithms and advanced statistical techniques. Additionally, I have honed my skills in data management, data visualization, and collaboration, working effectively with cross-functional teams of engineers, data analysts, and business stakeholders.
+During my internships, I gained hands-on experience building classification models, conducting exploratory data analysis, developing email spam detection systems, and analyzing complex datasets using machine learning algorithms and advanced statistical techniques. Additionally, I have honed my skills in data management, data visualization, and collaboration, working effectively with cross-functional teams of engineers, data analysts, and business stakeholders
 
 - 🔭 I’m currently working as a Data Science Intern and a Game developer
 - 🌱 I’m currently learning Staistics and Machine Learning
