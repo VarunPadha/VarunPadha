@@ -1,65 +1,53 @@
-### Hi there 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f2027,50:203a43,100:2c5364&text=Varun%20Padha&fontColor=ffffff&fontSize=64&fontAlignY=38&desc=Full-stack%20developer%20%E2%80%A2%20I%20ship%20products%20end%20to%20end&descAlignY=60&descSize=18&animation=fadeIn" width="100%" alt="Varun Padha"/>
 
- My name is ✨**VarunPadha**✨
- 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VarunPadha&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
-
-As a data science enthusiast with a passion for machine learning, I am committed to leveraging the power of data to drive meaningful business outcomes. With experience in Jupyter Notebook, Kaggle, Python, Pandas, NumPy, PyCaret, Matplotlib, Seaborn, Plotly, Natural Language Toolkit (NLTK), Power BI, and Tableau, I have developed a strong foundation in data analysis and visualization techniques.
-
-During my internships, I gained hands-on experience building classification models, conducting exploratory data analysis, developing email spam detection systems, and analyzing complex datasets using machine learning algorithms and advanced statistical techniques. Additionally, I have honed my skills in data management, data visualization, and collaboration, working effectively with cross-functional teams of engineers, data analysts, and business stakeholders
-
-- 🔭 I’m currently working as a Data Science Intern and a Game developer
-- 🌱 I’m currently learning Staistics and Machine Learning
-- 👯 I’m open for colloborations
-- 🤔 I’m looking for help with Quant Analysis 
-- 💬 Ask me about 
-- 📫 How to reach me: Connect me on Linkedin given below
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am funny
-- See my resume : https://drive.google.com/file/d/12Z2DG9RzU4Wd9lsBrrtXEeOPoSok3099/view?usp=share_link
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/varun-padha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="varunpadha" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=560&lines=SaaS+platforms+%26+admin+panels;Next.js+%2B+Supabase+%2B+Cloudflare;Custom+stores+%26+Shopify+themes;Sites+that+load+fast+and+rank" alt="What I build"/>
 </p>
 
-![Snake animation](https://github.com/VarunPadha/VarunPadha/blob/output/github-contribution-grid-snake.svg)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=varunpadha&label=Profile%20views&color=0e75b6&style=flat" alt="varunpadha" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=varunpadha" alt="varunpadha" /></a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=varunpadha&show_icons=true&locale=en&layout=compact" alt="varunpadha" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=varunpadha&" alt="varunpadha" /></p>
-
-
-
-
-
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="45" height="45">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="45" height="45">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter Notebook" width="45" height="45">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" alt="Unreal Engine" width="45" height="45">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original-wordmark.svg" alt="Unity" width="45" height="45">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="45" height="45">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="45" height="45">
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="Android Studio" width="45" height="45">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" alt="Firebase" width="45" height="45">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="45" height="45">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="45" height="45">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" height="45">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="OpenCV" width="45" height="45">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="45" height="45">
-
-
-
-
-
-
-
-
+<p align="center">
+  <a href="https://linkedin.com/in/varun-padha"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:varunpadha11@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
+
+---
+
+### What I work on
+
+- **SaaS & dashboards** — multi-tenant clinic/hospital management, admin panels, LMS platforms, CRMs
+- **Backends** — Supabase/Postgres with row-level security, Cloudflare Workers + D1, Node APIs
+- **E-commerce** — custom Next.js stores with payments, Shopify themes built from Figma
+- **Marketing sites** — fast static sites, scroll animation, SEO
+- **Side stuff** — Roblox games, Blender modelling, computer vision tools
+
+Most of my client work lives in private repos, so the green squares tell more of the story than the pinned ones.
+
+### Stack
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vite,tailwind,html,css,threejs&perline=9" alt="Frontend"/>
+
+**Backend & infra**
+
+<img src="https://skillicons.dev/icons?i=nodejs,supabase,postgres,sqlite,cloudflare,workers,vercel,python,fastapi&perline=9" alt="Backend"/>
+
+**Also**
+
+<img src="https://skillicons.dev/icons?i=figma,blender,git,github,pytorch,opencv,unity,cs,cpp&perline=9" alt="Other tools"/>
+
+<img src="https://img.shields.io/badge/Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white" alt="Shopify"/>
+<img src="https://img.shields.io/badge/Liquid-1BB1E7?style=flat-square&logo=shopify&logoColor=white" alt="Liquid"/>
+<img src="https://img.shields.io/badge/Roblox%20Luau-000000?style=flat-square&logo=roblox&logoColor=white" alt="Roblox Luau"/>
+<img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black" alt="GSAP"/>
+<img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=flat-square&logo=framer&logoColor=white" alt="Framer Motion"/>
+
+### Activity
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=VarunPadha&theme=transparent&hide_border=true" alt="GitHub streak"/>
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VarunPadha/VarunPadha/output/github-contribution-grid-snake-dark.svg"/>
+  <img src="https://raw.githubusercontent.com/VarunPadha/VarunPadha/output/github-contribution-grid-snake.svg" alt="Contribution snake"/>
+</picture>
